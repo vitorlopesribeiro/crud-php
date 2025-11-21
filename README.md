@@ -16,13 +16,14 @@ Este projeto foi criado como parte de um estudo de desenvolvimento web utilizand
 
 ## Estrutura do Projeto
 /projeto/
-│── autor.php
-│── convidado.php
-│── divulgacao.php
-│── publicacao.php
-│── conexao.php
-│── index.php
-│── bd_publicacoes.sql
+
+  │── autor.php
+  │── convidado.php
+  │── divulgacao.php
+  │── publicacao.php
+  │── conexao.php
+  │── index.php
+  │── bd_publicacoes.sql
 ---
 
 ## Funcionalidades
