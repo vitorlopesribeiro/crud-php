@@ -1,11 +1,11 @@
-# 📚 Sistema de Gerenciamento de Publicações Acadêmicas  
+#Sistema de Gerenciamento de Publicações Acadêmicas  
 CRUD completo em **PHP + PDO + MySQL**, desenvolvido para controle de **Autores, Convidados, Divulgações e Publicações**.
 
 Este projeto foi criado como parte de um estudo de desenvolvimento web utilizando PHP com boas práticas, separação de responsabilidades e banco de dados relacional.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##Tecnologias Utilizadas
 - **PHP 7/8**  
 - **PDO (PHP Data Objects)**  
 - **MySQL / MariaDB**  
@@ -14,7 +14,7 @@ Este projeto foi criado como parte de um estudo de desenvolvimento web utilizand
 
 ---
 
-## 📂 Estrutura do Projeto
+##Estrutura do Projeto
 /projeto/
 │── autor.php
 │── convidado.php
@@ -22,17 +22,10 @@ Este projeto foi criado como parte de um estudo de desenvolvimento web utilizand
 │── publicacao.php
 │── conexao.php
 │── index.php
-│── /css
-│── /js
-│── /imagens
-│── banco.sql
-│── README.md
-│── .gitignore
-
-
+│── bd_publicacoes.sql
 ---
 
-## 🧩 Funcionalidades
+##Funcionalidades
 
 ### ✔ CRUD de Autor
 - Cadastro, edição, exclusão
